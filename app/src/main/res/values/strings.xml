@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MC</string>
+    <string-array name="prodi">
+        <item>D3 Elektronika</item>
+        <item>S1 Rekayasa Perangkat Lunak</item>
+        <item>S1 Teknik Informatika</item>
+    </string-array>
+</resources>

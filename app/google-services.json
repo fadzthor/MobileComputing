@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "699783805714",
+    "project_id": "mcft-c6940",
+    "storage_bucket": "mcft-c6940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699783805714:android:b3c3461b893d8d864011cb",
+        "android_client_info": {
+          "package_name": "com.fadzthor.mc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699783805714-10cd0nldt1h2n1lghet8n5h9f02o408k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fadzthor.mc",
+            "certificate_hash": "5d4c09c48d0a8a315fe539805cca91beeeb3925b"
+          }
+        },
+        {
+          "client_id": "699783805714-8botfg3gfhqb7ojiddobsv2int3cfr8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfSfzwUsiVMgA0KUudAvKYncqasD7bjyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699783805714-8botfg3gfhqb7ojiddobsv2int3cfr8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
